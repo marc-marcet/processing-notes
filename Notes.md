@@ -83,7 +83,7 @@ These are the functions we have seen so far:
 |------|---------------|----------------------------|
 |```print(variable)```| ```variable```: Can be any variable or text|Writes in the console the value or text of the variable      |
 |float |Decimal Numbers|```int weight = 72.5;```    |
-|String|Text           |```String name = "Seiyu";```|
+|String|Text           |```String name = "Mark";```|
 |color |Color          |```color bgColor = color(50, 50, 0);```|
 &nbsp;
 
@@ -107,13 +107,13 @@ This code uses the float type for things that need decimal numbers, like the wei
 
 ### String
 
-This is a secret the teacher didn't explain yet but it's good to know because it's really useful. We can also have **text** inside a variable, typing **"String"** like this (it's important to type it with an uppercase S and not s):
+We can also have **text** inside a variable, typing **"String"** like this (it's important to type it with an uppercase S and not s):
 ```processing
 String name = "Mark";
 print("I am ");
 print(name);
 ```
-> I am Seiyu
+> Mark
 
 Remember that **text** in *Processing* needs to go **between " "**, if it's not inside a variable. In the example, we can see that we **use the *'name'* variable** inside the second **print function** with no problem, and without " " because it's already a variable.
 > **Note**: Text It's called "*String*" in programming because they are made up of a sequence (or string) of characters.
@@ -153,7 +153,7 @@ Here is the list of the variable types that we have seen:
 |------|---------------|----------------------------|
 |int   |Normal Numbers |```int coins = 10;```       |
 |float |Decimal Numbers|```int weight = 72.5;```    |
-|String|Text           |```String name = "Seiyu";```|
+|String|Text           |```String name = "Mark";```|
 |color |Color          |```color bgColor = color(50, 50, 0);```|
 
 &nbsp;
