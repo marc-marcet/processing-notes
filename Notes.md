@@ -68,8 +68,8 @@ println(3);
 ```
 This will say on the console:
 >1
->2
->3
+2
+3
 
 We can also **print text** using this function, text in *Processing* is written using the **quotation marks** → " "
 ```processing
